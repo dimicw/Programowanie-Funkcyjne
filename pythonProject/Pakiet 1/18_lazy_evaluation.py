@@ -1,8 +1,8 @@
 def generate_infinite_sequence():
-    num = 0
+    n = 0
     while True:
-        yield num
-        num += 2
+        yield n
+        n += 2
 
         
 generator = generate_infinite_sequence()
