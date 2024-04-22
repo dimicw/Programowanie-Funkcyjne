@@ -1,0 +1,5 @@
+print(type("abc"))
+print(len("Dominik"))
+print(sum([1, 2]))
+print(range(10))
+print(pow(2, 5))
